@@ -1,0 +1,5 @@
+name: AntiCreeper
+version: '${version}'
+main: nz.anticreeper.AntiCreeper
+api-version: '26.1'
+description: Stops creepers from hurting players or destroying blocks.

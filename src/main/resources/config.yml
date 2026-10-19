@@ -1,0 +1,6 @@
+# true = creepers ignore players and wander around like passive mobs
+peaceful: true
+
+# true  = creepers never explode at all (they hiss, then calm down)
+# false = creepers still explode and die, but the blast does no damage and breaks no blocks
+prevent-explosion: true
